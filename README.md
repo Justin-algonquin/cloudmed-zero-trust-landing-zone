@@ -1,0 +1,1 @@
+# cloudmed-zero-trust-landing-zone
